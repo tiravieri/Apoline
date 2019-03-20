@@ -1,0 +1,53 @@
+		body{
+			background-color: #162B3E;
+		}
+
+		.infoo{
+			height: 15%;
+			margin-top: 2%;
+			margin-bottom: 2%;
+		}
+
+		.head4{
+			margin-bottom: 7%;
+			/*margin-top: %;*/
+		}
+
+		.ranran{
+			margin-left: : 20%;
+			margin-right: 30%;
+			/*margin-top: 30%;*/
+			margin-bottom: 15%;
+		}
+
+		.avatar{
+				width: 175px;
+				margin: 2% auto 0;
+				display: block;
+				border-radius: 100%;
+		}
+		.right-profile{
+				color:  #162B3E ;
+				padding: 0% 5%;
+				border-radius: 30px;
+				background-color: white;
+				padding-top: 10px;
+				/*margin-left: %;*/
+		}
+		.left-profile{
+				margin-top: 50%;
+				color:  #162B3E;
+				/*padding: 2% 6%;*/
+				/*border-radius: 4px 0 0 4px;*/
+				background-color:  #162B3E;
+				margin-top: 10%;
+		}
+		.btnCP{
+			cursor: pointer;
+			background-color: #676767;
+			font-weight: bold;
+			text-align: center;
+			vertical-align: middle;
+			font-size: 11px;
+			border-radius: 45px;
+		}

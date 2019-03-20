@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.footer{
+	background: #efefef;
+	color: black;
+	position: relative;
+    overflow: hidden;
+	padding-top: 50px;
+    padding-bottom: 50px;
+	text-align: center;
+}
+
+.atas{
+			margin-top: 5%;
+			margin-left: 8%;
+		}
+
+.footerblock {
+	padding:20px 0px ;
+    display:block;
+	color: #000;
+}
+
+.apoline h3 {
+	color: #1D1949;
+	/*font-family: impact;*/
+	font-size: 30px;
+}
+
+.footerblock h4 {
+	font-size:21px;
+    font-family: 'robotoregular';
+    font-weight:500;
+	font-weight: bold;
+}
+
+.footerblock p {
+	font-family: cursive;
+	font-size: 12px;
+	color: #434141;
+	
+}
+
+.form-control:focus {
+    border-color:#ADEDBD;
+	background-color:aliceblue;
+	color:#28519C;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sopo ul li {
+	font-size:11px;
+    color: #434141;
+    font-family: cursive;
+    margin-bottom:10px;
+}
+
+.foot {
+	background:#6D6D6D;
+}
+
+.copyright{
+    text-align:right;
+}
+.copyright p{
+    font-size: 20px;
+    margin-bottom: 1px;
+    padding: 20px 0px;
+}
+.copyright p a{
+    color:#32E10A;
+	display: inline;
+}
+
+.atas .btn{
+	width: 50%;
+	background: #717070;
+}
+
+.atas .form-control{
+	width: 50%;
+	background: #E9E2E2;
+}
+
+

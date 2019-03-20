@@ -1,0 +1,60 @@
+.kotak{
+	border: 1px solid #000000;
+	height: 100%;
+	color: black;
+	box-shadow: 3px 3px 7px blue;
+	margin: 50px 10px 10px 60px;
+	text-align: center;
+}
+
+.reg{
+	margin-top: 10%;
+}
+
+.kotak img{
+	width: 100%;
+	margin-top: 15%;
+}
+
+.kotak h3{
+	margin-top: 25%;
+	width : 100%
+}
+
+.label{
+	color: black;
+	padding-top: 10%;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+.label_harga{
+	padding-top: 10px;
+}
+
+.btn-info {
+	margin: 20px 0 20px 0;
+	width: 40%;
+}
+
+.btn-success{
+	margin: 40px 0 20px 0;
+	width: 40%;
+}
+	
+.page{
+	margin: 40px;
+}
+
+.kotak3{
+	border: 1px solid #000000;
+	height: 100%;
+	color: black;
+	box-shadow: 3px 3px 7px blue;
+	margin: 50px 10px 10px 60px;
+	text-align: center;
+}
+
+.kotak3 img{
+	margin-top: 10%;
+}
